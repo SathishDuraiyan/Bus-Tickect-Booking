@@ -1,5 +1,6 @@
-# 60dayschallenge
-# Bus Ticket booking Problem
-  - Microsoft Power Bi
-  - Figma
-  - chance of develop in react native
+#60DaysChallenge
+#BusTicketBookingProblem
+
+-Microsoft Power BI for data analysis
+-Figma for user interface creation
+-Chance of development in React Native
